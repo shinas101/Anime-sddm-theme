@@ -4,7 +4,9 @@
 
 ## Preview :
 ![preview](Itachi/preview.png)
-## Installation
+
+## Installation :
+
 clone the repo and run install.sh with sudo.
 ```
 https://github.com/shinas101/Itachi-sddm-theme.git
@@ -13,7 +15,7 @@ chmod +x ./install.sh
 sudo ./install.sh
 
 ```
-### how to add avatar
+### how to add avatar :
 - Copy your avtar to `/usr/share/sddm/faces/` as \<username\>.face.icon
 -   eg: `/usr/share/sddm/faces/jhon.face.icon`
 <!---https://github.com/shinas101
