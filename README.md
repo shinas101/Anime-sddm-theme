@@ -9,7 +9,7 @@
 
 clone the repo and run install.sh with sudo.
 ```
-https://github.com/shinas101/Itachi-sddm-theme.git
+git clone https://github.com/shinas101/Itachi-sddm-theme.git
 cd Itachi-sddm-theme
 chmod +x ./install.sh
 sudo ./install.sh
