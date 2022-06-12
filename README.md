@@ -1,0 +1,1 @@
+# Itachi-sddm-theme
