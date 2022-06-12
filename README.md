@@ -16,6 +16,6 @@ sudo ./install.sh
 
 ```
 ### how to add avatar :
-- Copy your avtar to `/usr/share/sddm/faces/` as \<username\>.face.icon
+- Copy your avatar to `/usr/share/sddm/faces/` as \<username\>.face.icon
 -   eg: `/usr/share/sddm/faces/jhon.face.icon`
 <!---https://github.com/shinas101
