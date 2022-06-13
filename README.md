@@ -1,9 +1,14 @@
-# Itachi theme for Sddm
+# Anime theme for Sddm
 
 **A simple anime theme for SDDM**
 
 ## Preview :
-![preview](Itachi/preview.png)
+![art-1](Preview/art-1.png)
+![itachi](Preview/itachi-preview.png)
+![baruto](Preview/baruto-preview.png)
+![forest](Preview/forest.png)
+
+#### more preview 
 
 ## Installation :
 
