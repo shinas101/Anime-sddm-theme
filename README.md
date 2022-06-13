@@ -3,10 +3,10 @@
 **A simple anime theme for SDDM**
 
 ## Preview :
-![art-1](Preview/art-1.png)
+![art-1](Preview/art-1-preview.png)
 ![itachi](Preview/itachi-preview.png)
 ![baruto](Preview/baruto-preview.png)
-![forest](Preview/forest.png)
+![forest](Preview/forest-preview.png)
 
 #### more preview 
 
