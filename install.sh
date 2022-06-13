@@ -34,10 +34,7 @@ function setBackground(){
 				;;
 			art-1)
 				cp Asset/art-1.jpg Anime/background.jpg
-				sudo cp -r Anime /usr/share/sddm/themes/
-				sudo sed -i "s/^Current=.*/Current=Anime/g" /etc/sddm.conf.d/theme.conf
-				sudo sed -i "s/^Current=.*/Current=Anime/g" /etc/sddm.conf
-				echo "[*]Theme Installed successfully"
+				addtoSys
 				break
 				;;
 			art-2)
