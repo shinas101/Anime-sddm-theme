@@ -17,8 +17,8 @@
 
 clone the repo and run install.sh with sudo.
 ```
-git clone https://github.com/shinas101/Itachi-sddm-theme.git
-cd Itachi-sddm-theme
+git clone https://github.com/shinas101/Anime-sddm-theme.git
+cd Anime-sddm-theme
 chmod +x ./install.sh
 sudo ./install.sh
 	eg : sudo ./install.sh
